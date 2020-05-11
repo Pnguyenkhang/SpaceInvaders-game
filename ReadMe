@@ -1,0 +1,7 @@
+This basic game has a 800 by 600 set resolution, but will be updated for in the future. 
+--------
+The bullets are set ready to fire whenever you decide to hit the space bar and it 
+will travel until it reaches the end of the screen or if it hits an enemy.
+--------
+You can change the number of enemy aliens with the 'num_of_enem' variable.
+So far, it is set to 15 enemies and the game won't end until the aliens reach your ship.
